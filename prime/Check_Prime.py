@@ -10,7 +10,7 @@ if n==2 or n==3:
     print ("Prime")
 elif (n-1)%6==0 or (n+1)%6==0:
     if prime(n):
-        print("Prime")
+        print("Prime number")
     else:
         print("Not Prime")
 else:
