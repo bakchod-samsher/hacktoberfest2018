@@ -60,6 +60,7 @@ public class Quiz
         Scanner input = new Scanner(System.in); 
         System.out.println(" Welcome to this quiz "); 
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");  
+         System.out.println(" Welcome to this quiz "); 
         
         for (number=1; number<6; number++)  
         {
